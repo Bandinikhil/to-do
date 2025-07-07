@@ -1,5 +1,12 @@
 # React + Vite
 
+<img width="1144" alt="image" src="https://github.com/user-attachments/assets/2df702d6-3258-4ddc-97cc-609d35003718" />
+
+[Video Recording](https://www.loom.com/share/1030e36393b0465690908bb72061ac58?sid=c83ce7fb-49ce-4d9c-b64d-85c6602c4bb0)
+
+https://www.loom.com/share/1030e36393b0465690908bb72061ac58?sid=c83ce7fb-49ce-4d9c-b64d-85c6602c4bb0
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 In the project directory, you can run:
